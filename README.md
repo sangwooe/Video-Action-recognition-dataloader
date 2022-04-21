@@ -1,6 +1,6 @@
 # Video-Action-recognition-dataloader
 Dataloader for video/action-aware machine learning. 
-Supports RGB frames only.
+Supports RGB Images only.
 
 
 ### For frame extraction

@@ -38,7 +38,7 @@ Result
 
 ### For dataloader
 
-Input : Every frames in the videos
+Input : Whole frames in the videos
 
 Ouptut : [ number of segment, number of frame in the segment, image height, image width, channel ]
 
